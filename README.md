@@ -25,3 +25,8 @@
 
 
 ![image](https://user-images.githubusercontent.com/99628818/153809126-9c0589db-c97f-4933-924e-e3c948853036.png)
+
+
+不足をリストにだすがめん
+
+![image](https://user-images.githubusercontent.com/99628818/153809322-5d2b7576-0cd9-403d-8d24-2dfa8930e2b4.png)
