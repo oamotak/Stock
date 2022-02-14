@@ -19,3 +19,9 @@
 在庫数表示ページ
 
 ![image](https://user-images.githubusercontent.com/99628818/153809045-2abb448d-ed9b-4912-935e-4cc02089a7af.png)
+
+
+在庫予測ページ
+
+
+![image](https://user-images.githubusercontent.com/99628818/153809126-9c0589db-c97f-4933-924e-e3c948853036.png)
