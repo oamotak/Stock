@@ -15,3 +15,7 @@
 
 入出庫履歴一覧ページ
 ![image](https://user-images.githubusercontent.com/99628818/153808765-0cf1ab83-32b7-4335-9bb9-23eee3801079.png)
+
+在庫数表示ページ
+
+![image](https://user-images.githubusercontent.com/99628818/153809045-2abb448d-ed9b-4912-935e-4cc02089a7af.png)
