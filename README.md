@@ -8,4 +8,10 @@
 
 メインメニュー
 
+
 ![スクリーンショット (15)](https://user-images.githubusercontent.com/99628818/153808415-e9cb7fcf-f231-4d77-884c-bc8becd4e057.png)
+
+
+
+入出庫履歴一覧ページ
+![image](https://user-images.githubusercontent.com/99628818/153808765-0cf1ab83-32b7-4335-9bb9-23eee3801079.png)
